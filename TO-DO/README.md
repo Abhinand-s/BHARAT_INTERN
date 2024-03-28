@@ -7,12 +7,7 @@ This TODO app, built with Flutter and utilizing Firebase for authentication, hel
 
 ## Demo
 
-
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/Abhinand-s/BHARAT_INTERN/blob/main/weatherapp/demo/Screenshot_1710684878.png)
+![App Screenshot](https://github.com/Abhinand-s/BHARAT_INTERN/blob/main/TO-DO/Android%20Emulator%20-%20Pixel_4_API_34_5554%202024-03-28%2013-22-02.gif)
 
 
 ## 🔗 Links
