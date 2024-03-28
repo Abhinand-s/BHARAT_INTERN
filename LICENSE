@@ -1,32 +1,3 @@
-
-# Bharat Intern
-
-TASK TO PERFORM
-
-1. Weather Forecast App :
-    
-    Develop an app that fetches weather data
-    from an API and provides the current
-    weather conditions for a specified location
-
-    [code for weather app](https://github.com/Abhinand-s/BHARAT_INTERN/tree/main/weatherapp)
-
-2. To-Do List App :
-    Develop a simple app that allows users to
-    create and manage their to-do lists.
-
-    
-           
-
-
-
-                                                                            
-
-
-                                                            
-## License
-
-
 MIT License
 
 Copyright (c) 2024 ABHINAND S
@@ -48,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
-## Authors
-
-- [@abhinand-s](https://github.com/Abhinand-s)
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinands123)
-
